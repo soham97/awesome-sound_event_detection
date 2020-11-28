@@ -50,6 +50,8 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 [A Sequential Self Teaching Approach for Improving Generalization in Sound Event Recognition](https://arxiv.org/abs/2007.00144), ICML 2020
 
+[Duration robust weakly supervised sound event detection](https://arxiv.org/abs/1904.03841), ICASSP 2020
+
 [SeCoST:: Sequential Co-Supervision for Large Scale Weakly Labeled Audio Event Detection](https://ieeexplore.ieee.org/abstract/document/9053613), ICASSP 2020
 
 [Guided Learning for Weakly-Labeled Semi-Supervised Sound Event Detection](https://ieeexplore.ieee.org/abstract/document/9053584), ICASSP 2020
@@ -70,6 +72,8 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 [DD-CNN: Depthwise Disout Convolutional Neural Network for Low-complexity Acoustic Scene Classification](https://arxiv.org/abs/2007.12864), ArXiv 2020
 
+[Effective Perturbation based Semi-Supervised Learning Method for Sound Event Detection](http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=270&id=481), INTERSPEECH 2020
+
 [Weakly-Supervised Sound Event Detection with Self-Attention](https://ieeexplore.ieee.org/abstract/document/9053609), ICASSP 2020
 
 ### Pooling function
@@ -78,6 +82,8 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 [Comparing the Max and Noisy-Or Pooling Functions in Multiple Instance Learning for Weakly Supervised Sequence Learning Tasks](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/0990.pdf), Interspeech 2018
 
 [A Comparison of Five Multiple Instance Learning Pooling Functions for Sound Event Detection with Weak Labeling](https://ieeexplore.ieee.org/abstract/document/8682847), ICASSP 2019
+
+[Hierarchical Pooling Structure for Weakly Labeled Sound Event Detection](https://arxiv.org/pdf/1903.11791.pdf), INTERSPEECH 2019
 
 [Weakly labelled audioset tagging with attention neural networks](https://ieeexplore.ieee.org/abstract/document/8777125), TASLP 2019
 
@@ -89,6 +95,9 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 [Sound event detection and time–frequency segmentation from weakly labelled data](https://ieeexplore.ieee.org/abstract/document/8632940), TASLP 2019
 
 [Multi-Task Learning for Interpretable Weakly Labelled Sound Event Detection](https://arxiv.org/abs/2008.07085), ArXiv 2019
+
+### Representation learning
+[Contrastive Predictive Coding of Audio with an Adversary](http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=270&id=478), INTERSPEECH 2020
 
 ### Multi-task learning
 [Multi-Task Learning for Interpretable Weakly Labelled Sound Event Detection](https://arxiv.org/abs/2008.07085), ArXiv 2019
