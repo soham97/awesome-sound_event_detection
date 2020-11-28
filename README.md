@@ -1,5 +1,7 @@
 # Reading List for topics in Weakly Labelled Sound Event Detection
-By [Soham Deshmukh](https://soham97.github.io). Papers convering multiple sub-areas are listed in both the sections. If there are any areas, papers, and datasets I missed, please let me know!
+By [Soham Deshmukh](https://soham97.github.io), master's candidate at Carnegie Mellon University in Electrical and Computer Engineering department.
+
+Papers covering multiple sub-areas are listed in both the sections. If there are any areas, papers, and datasets I missed, please let me know!
 
 ## Table of Contents
 
