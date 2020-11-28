@@ -10,9 +10,7 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
   * [Learning formulation](#learning-formulation)
   * [Network architecture](#network-architecture)
   * [Pooling fuctions](#pooling-functions)
-  * [Multimodal Translation](#multimodal-translation)
   * [Missing or noisy audio](#missing-or-noisy-audio)
-  * [Intepretable Learning](#intepretable-learning)
   * [Generative Learning](#generative-learning)
   * [Representation Learning](#representation-learning)
   * [Multi-Task Learning](#multitask-learning)
@@ -30,7 +28,8 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 * [Tutorials](#tutorials)
 * [Courses](#courses)
 
-
+# Survey papers
+[Sound event detection and time–frequency segmentation from weakly labelled data](https://ieeexplore.ieee.org/abstract/document/8632940), TASLP 2019
 
 # Research Papers
 
@@ -82,6 +81,11 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 [Weakly labelled audioset tagging with attention neural networks](https://ieeexplore.ieee.org/abstract/document/8777125), TASLP 2019
 
+[Sound event detection and time–frequency segmentation from weakly labelled data](https://ieeexplore.ieee.org/abstract/document/8632940), TASLP 2019
+
+[Multi-Task Learning for Interpretable Weakly Labelled Sound Event Detection](https://arxiv.org/abs/2008.07085), ArXiv 2019
+
+### Missing or noisy audio:
 [Sound event detection and time–frequency segmentation from weakly labelled data](https://ieeexplore.ieee.org/abstract/document/8632940), TASLP 2019
 
 [Multi-Task Learning for Interpretable Weakly Labelled Sound Event Detection](https://arxiv.org/abs/2008.07085), ArXiv 2019
