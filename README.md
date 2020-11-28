@@ -60,7 +60,6 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 [Weakly-supervised audio event detection using event-specific Gaussian filters and fully convolutional networks](https://ieeexplore.ieee.org/abstract/document/7952264), ICASSP 2017
 
 [Deep CNN Framework for Audio Event Recognition using Weakly Labeled Web Data](https://arxiv.org/abs/1707.02530), NIPS Workshop on Machine Learning for Audio 2017
-[https://arxiv.org/abs/1803.02353](https://arxiv.org/abs/1803.02353), DCASE 2018
 
 [Large-Scale Weakly Supervised Audio Classification Using Gated Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/8461975), ICASSP 2018
 
