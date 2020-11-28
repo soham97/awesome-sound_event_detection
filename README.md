@@ -130,6 +130,7 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 ### Multimodal Audio and Visual
 [A Light-Weight Multimodal Framework for Improved Environmental Audio Tagging](https://ieeexplore.ieee.org/abstract/document/8462479), ICASSP 2018
+
 [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://arxiv.org/abs/2006.01595), IJCAI 2020
 
 ### Strongly and Weakly Labelled data
