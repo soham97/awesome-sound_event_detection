@@ -24,6 +24,7 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
   * [Strongly and Weakly labelled audio data](#strong-weak)
   * [Healthcare](#healthcare)
   * [Robotics](#robotics)
+* [Dataset](#dataset)
 * [Workshops](#workshops)
 * [Tutorials](#tutorials)
 * [Courses](#courses)
@@ -49,6 +50,8 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 [Multi-Task Learning for Interpretable Weakly Labelled Sound Event Detection](https://arxiv.org/abs/2008.07085), ArXiv 2019
 
 [A Sequential Self Teaching Approach for Improving Generalization in Sound Event Recognition](https://arxiv.org/abs/2007.00144), ICML 2020
+
+[Non-Negative Matrix Factorization-Convolutional Neural Network (NMF-CNN) For Sound Event Detection](https://arxiv.org/abs/2001.07874), ArXiv 2020
 
 [Duration robust weakly supervised sound event detection](https://arxiv.org/abs/1904.03841), ICASSP 2020
 
@@ -134,3 +137,13 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 ### Strongly and Weakly Labelled data
 [Audio event and scene recognition: A unified approach using strongly and weakly labeled data](https://ieeexplore.ieee.org/abstract/document/7966293), IJCNN 2017
+
+## Dataset
+[DCASE 2019 Task 4: Sound event detection in domestic environments](http://dcase.community/challenge2019/task-sound-event-detection-in-domestic-environments)
+
+[DCASE 2018 Task 4: Large-scale weakly labeled semi-supervised sound event detection in domestic environments](http://dcase.community/challenge2018/task-large-scale-weakly-labeled-semi-supervised-sound-event-detection)
+
+[FSD50K: an open dataset of human-labeled sound events](https://annotator.freesound.org/fsd/release/FSD50K/)
+
+[AudioSet: A large-scale dataset of manually annotated audio events](https://research.google.com/audioset)
+
