@@ -96,7 +96,7 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 [Multi-Task Learning and post processing optimisation for sound event detection](http://dcase.community/documents/challenge2019/technical_reports/DCASE2019_Cances_69.pdf), DCASE 2019
 
 ### Knowledge Transfer
-[Transfer learning of weakly labelled audio](https://ieeexplore.ieee.org/abstract/document/8169984), WASSPAA 2017
+[Transfer learning of weakly labelled audio](https://ieeexplore.ieee.org/abstract/document/8169984), WASPAA 2017
 
 [Knowledge Transfer from Weakly Labeled Audio Using Convolutional Neural Network for Sound Events and Scenes](https://ieeexplore.ieee.org/abstract/document/8462200), ICASSP 2018
 
