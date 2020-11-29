@@ -154,13 +154,13 @@ List of old workshorps (archived) and on-going workshops/conferences/journals:
 
 [MLSP: Machine Learning for Signal Processing](https://ieeemlsp.cc/)
 
-[WASPAA: IEEE Workshop on Applications of Signal Processing to Audio and Acoustics](https://www.waspaa.com) (Hold odd years)
+[WASPAA: IEEE Workshop on Applications of Signal Processing to Audio and Acoustics](https://www.waspaa.com)
 
-[ICASSP: IEEE International Conference on Acoustics Speech and Signal Processing](https://2021.ieeeicassp.org/) (Anually)
+[ICASSP: IEEE International Conference on Acoustics Speech and Signal Processing](https://2021.ieeeicassp.org/)
 
-[INTERSPEECH 2021](https://www.interspeech2021.org/) (Anually)
+[INTERSPEECH](https://www.interspeech2021.org/)
 
-[IEEE/ACM Transactions on Audio, Speech and Language Processing](https://dl.acm.org/journal/taslp) (Journal)
+[IEEE/ACM Transactions on Audio, Speech and Language Processing](https://dl.acm.org/journal/taslp)
 
 ## Tutorials
 
