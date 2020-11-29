@@ -103,10 +103,10 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 ### Generative Learning:
 [Acoustic Scene Generation with Conditional Samplernn](https://ieeexplore.ieee.org/abstract/document/8683727), ICASSP 2019 
 
-### Representation learning
+### Representation Learning
 [Contrastive Predictive Coding of Audio with an Adversary](http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=270&id=478), INTERSPEECH 2020
 
-### Multi-task learning
+### Multi-Task Learning
 [Multi-Task Learning for Interpretable Weakly Labelled Sound Event Detection](https://arxiv.org/abs/2008.07085), ArXiv 2019
 
 [Multi-Task Learning and post processing optimisation for sound event detection](http://dcase.community/documents/challenge2019/technical_reports/DCASE2019_Cances_69.pdf), DCASE 2019
