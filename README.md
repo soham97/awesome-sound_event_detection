@@ -148,7 +148,7 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 [AudioSet: A large-scale dataset of manually annotated audio events](https://research.google.com/audioset)
 
 ## Workshops/Conferences/Journals
-List of old workshorps (archived) and on-going workshops/conferences/journals:
+List of old workshops (archived) and on-going workshops/conferences/journals:
 
 [Machine Learning for Audio Signal Processing, NIPS 2017 workshop](https://nips.cc/Conferences/2017/Schedule?showEvent=8790)
 
