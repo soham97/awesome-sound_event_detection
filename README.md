@@ -142,7 +142,7 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://arxiv.org/abs/2006.01595), IJCAI 2020
 
-### Strongly and Weakly Labelled data
+### Strongly and Weakly labelled data
 [Audio event and scene recognition: A unified approach using strongly and weakly labeled data](https://ieeexplore.ieee.org/abstract/document/7966293), IJCNN 2017
 
 ### Others
