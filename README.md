@@ -21,7 +21,7 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
   * [Joint learning](#joint-task)
 * [Extension](#applications-and-datasets)
   * [Multimodal Audio and Visual](#multimodal-audio-visual)
-  * [Strongly and Weakly labelled audio data](#strong-weak)
+  * [Strongly and Weakly labelled data](#strong-weak)
   * [Healthcare](#healthcare)
   * [Robotics](#robotics)
 * [Dataset](#dataset)
