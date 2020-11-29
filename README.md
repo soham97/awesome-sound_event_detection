@@ -25,7 +25,7 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
   * [Healthcare](#healthcare)
   * [Robotics](#robotics)
 * [Dataset](#dataset)
-* [Workshops](#workshops)
+* [Workshops/Conferences/Journals](#WCJ)
 * [Tutorials](#tutorials)
 * [Courses](#courses)
 
@@ -146,4 +146,23 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 [FSD50K: an open dataset of human-labeled sound events](https://annotator.freesound.org/fsd/release/FSD50K/)
 
 [AudioSet: A large-scale dataset of manually annotated audio events](https://research.google.com/audioset)
+
+## Workshops/Conferences/Journals
+List of old workshorps (archived) and on-going workshops/conferences/journals:
+
+[Machine Learning for Audio Signal Processing, NIPS 2017 workshop](https://nips.cc/Conferences/2017/Schedule?showEvent=8790)
+
+[MLSP: Machine Learning for Signal Processing](https://ieeemlsp.cc/)
+
+[WASPAA: IEEE Workshop on Applications of Signal Processing to Audio and Acoustics](https://www.waspaa.com) (Hold odd years)
+
+[ICASSP: IEEE International Conference on Acoustics Speech and Signal Processing](https://2021.ieeeicassp.org/) (Anually)
+
+[INTERSPEECH 2021](https://www.interspeech2021.org/) (Anually)
+
+[IEEE/ACM Transactions on Audio, Speech and Language Processing](https://dl.acm.org/journal/taslp) (Journal)
+
+## Tutorials
+
+## Courses
 
