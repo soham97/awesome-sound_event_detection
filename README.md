@@ -66,6 +66,8 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 [Large-Scale Weakly Supervised Audio Classification Using Gated Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/8461975), ICASSP 2018
 
+[Orthogonality-Regularized Masked NMF for Learning on Weakly Labeled Audio Data](https://ieeexplore.ieee.org/abstract/document/8461293), ICASSP 2018
+
 [Sound event detection and time–frequency segmentation from weakly labelled data](https://ieeexplore.ieee.org/abstract/document/8632940), TASLP 2019
 
 [Attention-based Atrous Convolutional Neural Networks: Visualisation and Understanding Perspectives of Acoustic Scenes](https://ieeexplore.ieee.org/abstract/document/8683434), ICASSP 2019
@@ -98,6 +100,9 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 [Multi-Task Learning for Interpretable Weakly Labelled Sound Event Detection](https://arxiv.org/abs/2008.07085), ArXiv 2019
 
+### Generative Learning:
+[Acoustic Scene Generation with Conditional Samplernn](https://ieeexplore.ieee.org/abstract/document/8683727), ICASSP 2019 
+
 ### Representation learning
 [Contrastive Predictive Coding of Audio with an Adversary](http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=270&id=478), INTERSPEECH 2020
 
@@ -123,6 +128,8 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 [An Improved Event-Independent Network for Polyphonic Sound Event Localization and Detection](https://arxiv.org/abs/2010.13092), ArXiv 2020
 
+[Specialized Decision Surface and Disentangled Feature for Weakly-Supervised Polyphonic Sound Event Detection](https://ieeexplore.ieee.org/document/9076321), TASLP 2020
+
 ### Joint task
 [A Joint Separation-Classification Model for Sound Event Detection of Weakly Labelled Data](https://ieeexplore.ieee.org/abstract/document/8462448), ICASSP 2018
 
@@ -137,6 +144,9 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 ### Strongly and Weakly Labelled data
 [Audio event and scene recognition: A unified approach using strongly and weakly labeled data](https://ieeexplore.ieee.org/abstract/document/7966293), IJCNN 2017
+
+### Others
+[Sound Event Detection Using Point-Labeled Data](https://interactiveaudiolab.github.io/assets/papers/waspaa_2019_kim.pdf), WASPAA 2019
 
 ## Dataset
 [DCASE 2019 Task 4: Sound event detection in domestic environments](http://dcase.community/challenge2019/task-sound-event-detection-in-domestic-environments)
