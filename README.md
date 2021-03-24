@@ -190,7 +190,9 @@ List of old workshops (archived) and on-going workshops/conferences/journals:
 
 [IEEE/ACM Transactions on Audio, Speech and Language Processing](https://dl.acm.org/journal/taslp)
 
+[DCASE](http://dcase.community/)
+
 ## Tutorials
 
-## Courses
-
+## Resources
+[Computational Analysis of Sound Scenes and Events](https://www.springer.com/us/book/9783319634494)
