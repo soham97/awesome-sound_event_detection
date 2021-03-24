@@ -1,7 +1,7 @@
-# Reading List for topics in Weakly Labelled Sound Event Detection
-By [Soham Deshmukh](https://soham97.github.io), master's candidate at Carnegie Mellon University in Electrical and Computer Engineering department.
+# Reading List for topics in Weakly Supervised Sound Event Detection
+By [Soham Deshmukh](https://soham97.github.io)
 
-Papers covering multiple sub-areas are listed in both the sections. If there are any areas, papers, and datasets I missed, please let me know!
+Papers covering multiple sub-areas are listed in both the sections. If there are any areas, papers, and datasets I missed, please let me know or feel free to make a pull request.
 
 ## Table of Contents
 
@@ -19,8 +19,10 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
   * [Knowledge-transfer](#knowledge-transfer)
   * [Polyphonic SED](#polyphonic)
   * [Joint learning](#joint-task)
+  * [Loss function](#loss)
 * [Extension](#applications-and-datasets)
-  * [Multimodal Audio and Visual](#multimodal-audio-visual)
+  * [Multimodal: Audio and Visual](#multimodal-audio-visual)
+  * [Multimodal: Audio and Text](#multimodal-audio-text)
   * [Strongly and Weakly labelled data](#strong-weak)
   * [Healthcare](#healthcare)
   * [Robotics](#robotics)
@@ -47,7 +49,7 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 [Connectionist Temporal Localization for Sound Event Detection with Sequential Labeling](https://ieeexplore.ieee.org/abstract/document/8682278), ICASSP 2019
 
-[Multi-Task Learning for Interpretable Weakly Labelled Sound Event Detection](https://arxiv.org/abs/2008.07085), ArXiv 2019
+[Multi-Task Learning for Interpretable Weakly Labelled Sound Event Detection](https://arxiv.org/abs/2008.07085), ArXiv 2020
 
 [A Sequential Self Teaching Approach for Improving Generalization in Sound Event Recognition](https://arxiv.org/abs/2007.00144), ICML 2020
 
@@ -58,6 +60,10 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 [SeCoST:: Sequential Co-Supervision for Large Scale Weakly Labeled Audio Event Detection](https://ieeexplore.ieee.org/abstract/document/9053613), ICASSP 2020
 
 [Guided Learning for Weakly-Labeled Semi-Supervised Sound Event Detection](https://ieeexplore.ieee.org/abstract/document/9053584), ICASSP 2020
+
+[Unsupervised Contrastive Learning of Sound Event Representations](https://arxiv.org/pdf/2011.07616.pdf), ICASSP 2021
+
+[Sound Event Detection Based on Curriculum Learning Considering Learning Difficulty of Events](https://arxiv.org/abs/2102.05288), ICASSP 2021
 
 ### Network Architecture
 [Weakly-supervised audio event detection using event-specific Gaussian filters and fully convolutional networks](https://ieeexplore.ieee.org/abstract/document/7952264), ICASSP 2017
@@ -79,6 +85,10 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 [Effective Perturbation based Semi-Supervised Learning Method for Sound Event Detection](http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=270&id=481), INTERSPEECH 2020
 
 [Weakly-Supervised Sound Event Detection with Self-Attention](https://ieeexplore.ieee.org/abstract/document/9053609), ICASSP 2020
+
+[Improving Deep Learning Sound Events Classifiers using Gram Matrix Feature-wise Correlations](https://arxiv.org/abs/2102.11771), ICASSP 2021
+
+[An Improved Event-Independent Network for Polyphonic Sound Event Localization and Detection](https://arxiv.org/abs/2010.13092), ICASSP 2021
 
 ### Pooling functions
 [Adaptive Pooling Operators for Weakly Labeled Sound Event Detection](https://dl.acm.org/doi/10.1109/TASLP.2018.2858559), TASLP 2018
@@ -105,6 +115,8 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 ### Representation Learning
 [Contrastive Predictive Coding of Audio with an Adversary](http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=270&id=478), INTERSPEECH 2020
+
+[ACCDOA: Activity-Coupled Cartesian Direction of Arrival Representation for Sound Event Localization and Detection](https://arxiv.org/abs/2010.15306), ICASSP 2021
 
 ### Multi-Task Learning
 [Multi-Task Learning for Interpretable Weakly Labelled Sound Event Detection](https://arxiv.org/abs/2008.07085), ArXiv 2019
@@ -137,12 +149,18 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 [A Joint Framework for Audio Tagging and Weakly Supervised Acoustic Event Detection Using DenseNet with Global Average Pooling](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-8-7.pdf), INTERSPEECH 2020
 
+### Loss function
+[Impact of Sound Duration and Inactive Frames on Sound Event Detection Performance](https://arxiv.org/abs/2102.01927v1), ICASSP 2021
+
 ## Extension
 
 ### Multimodal Audio and Visual
 [A Light-Weight Multimodal Framework for Improved Environmental Audio Tagging](https://ieeexplore.ieee.org/abstract/document/8462479), ICASSP 2018
 
 [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://arxiv.org/abs/2006.01595), IJCAI 2020
+
+### Multimodal Audio and Text
+[Text-to-Audio Grounding: Building Correspondence Between Captions and Sound Events](https://arxiv.org/abs/2102.11474), ICASSP 2021
 
 ### Strongly and Weakly labelled data
 [Audio event and scene recognition: A unified approach using strongly and weakly labeled data](https://ieeexplore.ieee.org/abstract/document/7966293), IJCNN 2017
