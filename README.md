@@ -31,10 +31,10 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 * [Tutorials](#tutorials)
 * [Courses](#courses)
 
-# Survey papers
-[Sound event detection and time–frequency segmentation from weakly labelled data](https://ieeexplore.ieee.org/abstract/document/8632940), TASLP 2019
+# Research papers
 
-# Research Papers
+## Survey papers
+[Sound event detection and time–frequency segmentation from weakly labelled data](https://ieeexplore.ieee.org/abstract/document/8632940), TASLP 2019
 
 ## Core Areas
 
