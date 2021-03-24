@@ -140,8 +140,6 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 [Evaluation of Post-Processing Algorithms for Polyphonic Sound Event Detection](https://ieeexplore.ieee.org/abstract/document/8937143), WASPAA 2019
 
-[An Improved Event-Independent Network for Polyphonic Sound Event Localization and Detection](https://arxiv.org/abs/2010.13092), ArXiv 2020
-
 [Specialized Decision Surface and Disentangled Feature for Weakly-Supervised Polyphonic Sound Event Detection](https://ieeexplore.ieee.org/document/9076321), TASLP 2020
 
 ### Joint task
