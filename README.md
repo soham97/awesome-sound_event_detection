@@ -90,6 +90,8 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 [An Improved Event-Independent Network for Polyphonic Sound Event Localization and Detection](https://arxiv.org/abs/2010.13092), ICASSP 2021
 
+[AST: Audio Spectrogram Transformer](https://arxiv.org/pdf/2104.01778.pdf), ArXiv 2021
+
 ### Pooling functions
 [Adaptive Pooling Operators for Weakly Labeled Sound Event Detection](https://dl.acm.org/doi/10.1109/TASLP.2018.2858559), TASLP 2018
 
