@@ -7,6 +7,9 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 Maintained by [Soham Deshmukh](https://soham97.github.io)
 
+## Recent Content
+ICASSP 2021 papers added
+
 ## Table of Contents
 
 * [Survey Papers](#survey-papers)
@@ -68,6 +71,10 @@ Maintained by [Soham Deshmukh](https://soham97.github.io)
 
 [Sound Event Detection Based on Curriculum Learning Considering Learning Difficulty of Events](https://arxiv.org/abs/2102.05288), ICASSP 2021
 
+[Comparison of Deep Co-Training and Mean-Teacher Approaches for Semi-Supervised Audio Tagging](https://ieeexplore.ieee.org/document/9415116), ICASSP 2021
+
+[Enhancing Audio Augmentation Methods with Consistency Learning](https://ieeexplore.ieee.org/document/9414316), ICASSP 2021
+
 ### Network Architecture
 [Weakly-supervised audio event detection using event-specific Gaussian filters and fully convolutional networks](https://ieeexplore.ieee.org/abstract/document/7952264), ICASSP 2017
 
@@ -110,6 +117,8 @@ Maintained by [Soham Deshmukh](https://soham97.github.io)
 
 [Multi-Task Learning for Interpretable Weakly Labelled Sound Event Detection](https://arxiv.org/abs/2008.07085), ArXiv 2019
 
+[A Global-Local Attention Framework for Weakly Labelled Audio Tagging](https://ieeexplore.ieee.org/document/9414357), ICASSP 2021
+
 ### Missing or noisy audio:
 [Sound event detection and time–frequency segmentation from weakly labelled data](https://ieeexplore.ieee.org/abstract/document/8632940), TASLP 2019
 
@@ -131,6 +140,15 @@ Maintained by [Soham Deshmukh](https://soham97.github.io)
 [Label-efficient audio classification through multitask learning and self-supervision](https://arxiv.org/abs/1910.12587), ICLR 2019
 
 ### Few-Shot Learning
+[Few-Shot Audio Classification with Attentional Graph Neural Networks](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1532.pdf), INTERSPEECH 2019
+
+[Continual Learning of New Sound Classes Using Generative Replay](https://ieeexplore.ieee.org/document/8937236), WASSPA 2019
+
+[Few-Shot Sound Event Detection](https://ieeexplore.ieee.org/document/9054708), ICASSP 2020
+
+[Few-Shot Continual Learning for Audio Classification](https://ieeexplore.ieee.org/document/9413584), ICASSP 2021
+
+[Unsupervised and Semi-Supervised Few-Shot Acoustic Event Classification](https://ieeexplore.ieee.org/document/9414546), ICASSP 2021
 
 ### Knowledge Transfer
 [Transfer learning of weakly labelled audio](https://ieeexplore.ieee.org/abstract/document/8169984), WASPAA 2017
@@ -163,6 +181,8 @@ Maintained by [Soham Deshmukh](https://soham97.github.io)
 
 [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://arxiv.org/abs/2006.01595), IJCAI 2020
 
+[Audio-Visual Event Recognition Through the Lens of Adversary](https://ieeexplore.ieee.org/document/9415065), ICASSP 2021
+
 ### Audio and Text [Audio Captioning]
 [Automated audio captioning with recurrent neural networks](https://ieeexplore.ieee.org/document/8170058), WASPAA 2017
 
@@ -177,6 +197,8 @@ Maintained by [Soham Deshmukh](https://soham97.github.io)
 [A Transformer-based Audio Captioning Model with Keyword Estimation](https://arxiv.org/abs/2007.00222), INTERSPEECH 2020
 
 [Text-to-Audio Grounding: Building Correspondence Between Captions and Sound Events](https://arxiv.org/abs/2102.11474), ICASSP 2021
+
+[Learning Contextual Tag Embeddings for Cross-Modal Alignment of Audio and Tags](https://ieeexplore.ieee.org/document/9414638), ICASSP 2021
 
 ### Strongly and Weakly labelled data
 [Audio event and scene recognition: A unified approach using strongly and weakly labeled data](https://ieeexplore.ieee.org/abstract/document/7966293), IJCNN 2017
