@@ -164,19 +164,17 @@ Maintained by [Soham Deshmukh](https://soham97.github.io)
 [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://arxiv.org/abs/2006.01595), IJCAI 2020
 
 ### Audio and Text [Audio Captioning]
-[Text-to-Audio Grounding: Building Correspondence Between Captions and Sound Events](https://arxiv.org/abs/2102.11474), ICASSP 2021
-
-[Audio Captioning Based on Combined Audio and Semantic Embeddings](https://ieeexplore.ieee.org/abstract/document/9327916), ISM 2020
-
-[A Transformer-based Audio Captioning Model with Keyword Estimation](https://arxiv.org/abs/2007.00222), INTERSPEECH 2020
-
-[Clotho: An Audio Captioning Dataset](https://arxiv.org/abs/1910.09387), ICASSP 2020
-
-[AudioCaps: Generating captions for audios in the wild](https://www.aclweb.org/anthology/N19-1011/), NAACL 2019
-
 [Automated audio captioning with recurrent neural networks](https://ieeexplore.ieee.org/document/8170058), WASPAA 2017
 
 [Audio caption: Listen and tell](https://arxiv.org/abs/1706.10006), ICASSP 2018
+
+[AudioCaps: Generating captions for audios in the wild](https://www.aclweb.org/anthology/N19-1011/), NAACL 2019
+
+[Audio Captioning Based on Combined Audio and Semantic Embeddings](https://ieeexplore.ieee.org/abstract/document/9327916), ISM 2020
+
+[Clotho: An Audio Captioning Dataset](https://arxiv.org/abs/1910.09387), ICASSP 2020
+
+[A Transformer-based Audio Captioning Model with Keyword Estimation](https://arxiv.org/abs/2007.00222), INTERSPEECH 2020
 
 [Text-to-Audio Grounding: Building Correspondence Between Captions and Sound Events](https://arxiv.org/abs/2102.11474), ICASSP 2021
 
