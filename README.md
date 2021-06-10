@@ -1,12 +1,16 @@
 # Reading List for topics in Weakly Supervised Sound Event Detection
-By [Soham Deshmukh](https://soham97.github.io)
+
+## Introduction
+Sound event detection aims at processing the continuous acoustic signal and converting it into symbolic descriptions of the corresponding sound events present at the auditory scene. Sound event detection can be utilized in a variety of applications, including context-based indexing and retrieval in multimedia databases, unobtrusive monitoring in health care, and surveillance. Recently (since 2017), to utilise large multimedia data available, learning acoustic information from weak annotations was formulated. This reading list consists of papers which use weak annotation for learning symbolic descriptions of the corresponding sound events in the audio.
 
 Papers covering multiple sub-areas are listed in both the sections. If there are any areas, papers, and datasets I missed, please let me know or feel free to make a pull request.
+
+Maintained by [Soham Deshmukh](https://soham97.github.io)
 
 ## Table of Contents
 
 * [Survey Papers](#survey-papers)
-* [Core Areas](#core-areas)
+* [Areas](#areas)
   * [Learning formulation](#learning-formulation)
   * [Network architecture](#network-architecture)
   * [Pooling fuctions](#pooling-functions)
@@ -20,9 +24,8 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
   * [Polyphonic SED](#polyphonic)
   * [Joint learning](#joint-task)
   * [Loss function](#loss)
-* [Extension](#applications-and-datasets)
-  * [Multimodal: Audio and Visual](#multimodal-audio-visual)
-  * [Multimodal: Audio and Text](#multimodal-audio-text)
+  * [Audio and Visual](#audio-visual)
+  * [Audio and Text [Audio Captioning]](#audio-text)
   * [Strongly and Weakly labelled data](#strong-weak)
   * [Healthcare](#healthcare)
   * [Robotics](#robotics)
@@ -36,7 +39,7 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 ## Survey papers
 [Sound event detection and time–frequency segmentation from weakly labelled data](https://ieeexplore.ieee.org/abstract/document/8632940), TASLP 2019
 
-## Core Areas
+## Areas
 
 ### Learning formulation
 [Weakly supervised scalable audio content analysis](https://ieeexplore.ieee.org/abstract/document/7552989), ICME 2016
@@ -112,7 +115,7 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 [Multi-Task Learning for Interpretable Weakly Labelled Sound Event Detection](https://arxiv.org/abs/2008.07085), ArXiv 2019
 
-### Generative Learning:
+### Generative Learning
 [Acoustic Scene Generation with Conditional Samplernn](https://ieeexplore.ieee.org/abstract/document/8683727), ICASSP 2019 
 
 ### Representation Learning
@@ -127,6 +130,8 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 [Label-efficient audio classification through multitask learning and self-supervision](https://arxiv.org/abs/1910.12587), ICLR 2019
 
+### Few-Shot Learning
+
 ### Knowledge Transfer
 [Transfer learning of weakly labelled audio](https://ieeexplore.ieee.org/abstract/document/8169984), WASPAA 2017
 
@@ -136,6 +141,7 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 ### Polyphonic SED
 [A first attempt at polyphonic sound event detection using connectionist temporal classification](https://ieeexplore.ieee.org/abstract/document/8682847), ICASSP 2017
+
 [Polyphonic Sound Event Detection with Weak Labeling](http://www.cs.cmu.edu/~yunwang/papers/cmu-thesis.pdf), Thesis 2018
 
 [Polyphonic Sound Event Detection and Localization using a Two-Stage Strategy](https://arxiv.org/abs/1905.00268), DCASE 2019
@@ -152,14 +158,26 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 ### Loss function
 [Impact of Sound Duration and Inactive Frames on Sound Event Detection Performance](https://arxiv.org/abs/2102.01927v1), ICASSP 2021
 
-## Extension
-
-### Multimodal Audio and Visual
+### Audio and Visual
 [A Light-Weight Multimodal Framework for Improved Environmental Audio Tagging](https://ieeexplore.ieee.org/abstract/document/8462479), ICASSP 2018
 
 [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://arxiv.org/abs/2006.01595), IJCAI 2020
 
-### Multimodal Audio and Text
+### Audio and Text [Audio Captioning]
+[Text-to-Audio Grounding: Building Correspondence Between Captions and Sound Events](https://arxiv.org/abs/2102.11474), ICASSP 2021
+
+[Audio Captioning Based on Combined Audio and Semantic Embeddings](https://ieeexplore.ieee.org/abstract/document/9327916), ISM 2020
+
+[A Transformer-based Audio Captioning Model with Keyword Estimation](https://arxiv.org/abs/2007.00222), INTERSPEECH 2020
+
+[Clotho: An Audio Captioning Dataset](https://arxiv.org/abs/1910.09387), ICASSP 2020
+
+[AudioCaps: Generating captions for audios in the wild](https://www.aclweb.org/anthology/N19-1011/), NAACL 2019
+
+[Automated audio captioning with recurrent neural networks](https://ieeexplore.ieee.org/document/8170058), WASPAA 2017
+
+[Audio caption: Listen and tell](https://arxiv.org/abs/1706.10006), ICASSP 2018
+
 [Text-to-Audio Grounding: Building Correspondence Between Captions and Sound Events](https://arxiv.org/abs/2102.11474), ICASSP 2021
 
 ### Strongly and Weakly labelled data
