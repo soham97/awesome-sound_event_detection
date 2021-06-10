@@ -1,4 +1,4 @@
-# Reading List for topics in Weakly Supervised Sound Event Detection
+# Reading List for topics in Sound Event Detection
 
 ## Introduction
 Sound event detection aims at processing the continuous acoustic signal and converting it into symbolic descriptions of the corresponding sound events present at the auditory scene. Sound event detection can be utilized in a variety of applications, including context-based indexing and retrieval in multimedia databases, unobtrusive monitoring in health care, and surveillance. Recently (since 2017), to utilise large multimedia data available, learning acoustic information from weak annotations was formulated. This reading list consists of papers which use weak annotation for learning symbolic descriptions of the corresponding sound events in the audio.
