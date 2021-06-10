@@ -205,20 +205,15 @@ Maintained by [Soham Deshmukh](https://soham97.github.io)
 
 ## Workshops/Conferences/Journals
 List of old workshops (archived) and on-going workshops/conferences/journals:
-
-[Machine Learning for Audio Signal Processing, NIPS 2017 workshop](https://nips.cc/Conferences/2017/Schedule?showEvent=8790)
-
-[MLSP: Machine Learning for Signal Processing](https://ieeemlsp.cc/)
-
-[WASPAA: IEEE Workshop on Applications of Signal Processing to Audio and Acoustics](https://www.waspaa.com)
-
-[ICASSP: IEEE International Conference on Acoustics Speech and Signal Processing](https://2021.ieeeicassp.org/)
-
-[INTERSPEECH](https://www.interspeech2021.org/)
-
-[IEEE/ACM Transactions on Audio, Speech and Language Processing](https://dl.acm.org/journal/taslp)
-
-[DCASE](http://dcase.community/)
+|Venues |link |
+| :--- | :--- |
+|Machine Learning for Audio Signal Processing, NIPS 2017 workshop| https://nips.cc/Conferences/2017/Schedule?showEvent=8790 |
+|MLSP: Machine Learning for Signal Processing| https://ieeemlsp.cc/ |
+|WASPAA: IEEE Workshop on Applications of Signal Processing to Audio and Acoustics| https://www.waspaa.com |
+|ICASSP: IEEE International Conference on Acoustics Speech and Signal Processing| https://2021.ieeeicassp.org/ |
+|INTERSPEECH| https://www.interspeech2021.org/ |
+|IEEE/ACM Transactions on Audio, Speech and Language Processing| https://dl.acm.org/journal/taslp |
+|DCASE| http://dcase.community/ |
 
 ## Tutorials
 
