@@ -185,13 +185,23 @@ Maintained by [Soham Deshmukh](https://soham97.github.io)
 [Sound Event Detection Using Point-Labeled Data](https://interactiveaudiolab.github.io/assets/papers/waspaa_2019_kim.pdf), WASPAA 2019
 
 ## Dataset
-[DCASE 2019 Task 4: Sound event detection in domestic environments](http://dcase.community/challenge2019/task-sound-event-detection-in-domestic-environments)
+|Task |Dataset |Source |Num. Files |
+| :--- | :--- | :--- | :--- |
+|Sound Event Classification |[ESC-50](https://github.com/karolpiczak/ESC-50) |freesound.org |2k files |
+|Sound Event Classification|[DCASE17 Task 4](http://dcase.community/challenge2017/task-large-scale-sound-event-detection)| YT videos|2k files |
+|Sound Event Classification|[US8K](https://urbansounddataset.weebly.com/urbansound8k.html)| freesound.org|8k files |
+|Sound Event Classification |[FSD50K](https://annotator.freesound.org/fsd/release/FSD50K/) |freesound.org |50k files |
+|Sound Event Classification|[AudioSet](https://research.google.com/audioset/download.html)| YT videos|2M files |
+|COVID-19 Detection using Coughs |[DiCOVA](https://dicova2021.github.io/) | Volunteers recording audio via a website  |  1k files|
+|Few-shot Bioacoustic Event Detection|[DCASE21 Task 5](http://dcase.community/challenge2021/task-few-shot-bioacoustic-event-detection)| audio|4k+ files |
+|Acoustic Scene Classification |[DCASE18 Task 1](http://dcase.community/challenge2019/task-acoustic-scene-classification#subtask-a)|Recorded by  TUT |1.5k |
+|Various |[VGG-Sound](https://www.robots.ox.ac.uk/~vgg/data/vggsound/)|Web videos |200k files|
+|Audio Captioning   |[Clotho](https://github.com/audio-captioning/clotho-dataset) |freesound.org |5k files |
+|Audio Captioning   |[AudioCaps](https://github.com/cdjkim/audiocaps/tree/master/dataset) |YT videos |51k files |
+|Action Recognition |[UCF101](https://www.crcv.ucf.edu/research/data-sets/ucf101/) | Web videos  |  13k files|
+|Unlabeled |[YFCC100M](https://pypi.org/project/yfcc100m/) | Yahoo videos  |  1M files|
 
-[DCASE 2018 Task 4: Large-scale weakly labeled semi-supervised sound event detection in domestic environments](http://dcase.community/challenge2018/task-large-scale-weakly-labeled-semi-supervised-sound-event-detection)
-
-[FSD50K: an open dataset of human-labeled sound events](https://annotator.freesound.org/fsd/release/FSD50K/)
-
-[AudioSet: A large-scale dataset of manually annotated audio events](https://research.google.com/audioset)
+[Other audio-based datasets to consider](https://homepages.tuni.fi/toni.heittola/datasets)
 
 ## Workshops/Conferences/Journals
 List of old workshops (archived) and on-going workshops/conferences/journals:
