@@ -36,6 +36,7 @@ ICASSP 2021 papers added
 * [Workshops/Conferences/Journals](#WCJ)
 * [Tutorials](#tutorials)
 * [Courses](#courses)
+* [More](#more)
 
 # Research papers
 
@@ -206,7 +207,7 @@ ICASSP 2021 papers added
 ### Others
 [Sound Event Detection Using Point-Labeled Data](https://interactiveaudiolab.github.io/assets/papers/waspaa_2019_kim.pdf), WASPAA 2019
 
-## Dataset
+# Dataset
 |Task |Dataset |Source |Num. Files |
 | :--- | :--- | :--- | :--- |
 |Sound Event Classification |[ESC-50](https://github.com/karolpiczak/ESC-50) |freesound.org |2k files |
@@ -225,7 +226,7 @@ ICASSP 2021 papers added
 
 [Other audio-based datasets to consider](https://homepages.tuni.fi/toni.heittola/datasets)
 
-## Workshops/Conferences/Journals
+# Workshops/Conferences/Journals
 List of old workshops (archived) and on-going workshops/conferences/journals:
 |Venues |link |
 | :--- | :--- |
@@ -237,7 +238,10 @@ List of old workshops (archived) and on-going workshops/conferences/journals:
 |IEEE/ACM Transactions on Audio, Speech and Language Processing| https://dl.acm.org/journal/taslp |
 |DCASE| http://dcase.community/ |
 
-## Tutorials
+# Tutorials
 
-## Resources
+# Resources
 [Computational Analysis of Sound Scenes and Events](https://www.springer.com/us/book/9783319634494)
+
+# More
+If you are interested in audio-captioning, [K. Drossos](https://github.com/dr-costas) maintains a detailed reading list [here](https://github.com/audio-captioning/audio-captioning-papers)
