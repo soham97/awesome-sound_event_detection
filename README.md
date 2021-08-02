@@ -256,6 +256,7 @@ List of old workshops (archived) and on-going workshops/conferences/journals:
 |DCASE| http://dcase.community/ |
 
 # Tutorials
+[Sound Event Detection: A Tutorial](https://arxiv.org/abs/2107.05463)
 
 # Resources
 [Computational Analysis of Sound Scenes and Events](https://www.springer.com/us/book/9783319634494)
