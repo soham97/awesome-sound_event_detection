@@ -8,6 +8,7 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 Maintained by [Soham Deshmukh](https://soham97.github.io)
 
 ## Recent Content
+INTERSPEECH 2021 papers added
 ICASSP 2021 papers added
 
 ## Table of Contents
@@ -18,6 +19,7 @@ ICASSP 2021 papers added
   * [Network architecture](#network-architecture)
   * [Pooling fuctions](#pooling-functions)
   * [Missing or noisy audio](#missing-or-noisy-audio)
+  * [Data Augmentation](#data-augmentation)
   * [Generative Learning](#generative-learning)
   * [Representation Learning](#representation-learning)
   * [Multi-Task Learning](#multitask-learning)
@@ -101,7 +103,9 @@ ICASSP 2021 papers added
 
 [An Improved Event-Independent Network for Polyphonic Sound Event Localization and Detection](https://arxiv.org/abs/2010.13092), ICASSP 2021
 
-[AST: Audio Spectrogram Transformer](https://arxiv.org/abs/2104.01778), ArXiv 2021
+[AST: Audio Spectrogram Transformer](https://arxiv.org/abs/2104.01778), INTERSPEECH 2021
+
+[Event Specific Attention for Polyphonic Sound Event Detection](https://assets.amazon.science/31/fc/503f716a43fda8e0718e7ffc6e9e/event-specific-attention-for-polyphonic-sound-event-detection.pdf), INTERSPEECH 2021
 
 ### Pooling functions
 [Adaptive Pooling Operators for Weakly Labeled Sound Event Detection](https://dl.acm.org/doi/10.1109/TASLP.2018.2858559), TASLP 2018
@@ -125,13 +129,22 @@ ICASSP 2021 papers added
 
 [Multi-Task Learning for Interpretable Weakly Labelled Sound Event Detection](https://arxiv.org/abs/2008.07085), ArXiv 2019
 
+[Improving weakly supervised sound event detection with self-supervised auxiliary tasks](https://arxiv.org/abs/2106.06858), INTERSPEECH 2021
+
+### Data Augmentation:
+[SpecAugment++: A Hidden Space Data Augmentation Method for Acoustic Scene Classification](https://arxiv.org/abs/2103.16858), INTERSPEECH 2021
+
 ### Generative Learning
 [Acoustic Scene Generation with Conditional Samplernn](https://ieeexplore.ieee.org/abstract/document/8683727), ICASSP 2019 
 
 ### Representation Learning
+[Towards Learning a Universal Non-Semantic Representation of Speech](https://arxiv.org/abs/2002.12764), INTERSPEECH 2021
+
 [Contrastive Predictive Coding of Audio with an Adversary](http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=270&id=478), INTERSPEECH 2020
 
 [ACCDOA: Activity-Coupled Cartesian Direction of Arrival Representation for Sound Event Localization and Detection](https://arxiv.org/abs/2010.15306), ICASSP 2021
+
+[FRILL: A Non-Semantic Speech Embedding for Mobile Devices](https://arxiv.org/abs/2011.04609), INTERSPEECH 2021
 
 ### Multi-Task Learning
 [Multi-Task Learning for Interpretable Weakly Labelled Sound Event Detection](https://arxiv.org/abs/2008.07085), ArXiv 2019
@@ -152,6 +165,8 @@ ICASSP 2021 papers added
 [Unsupervised and Semi-Supervised Few-Shot Acoustic Event Classification](https://ieeexplore.ieee.org/document/9414546), ICASSP 2021
 
 ### Knowledge Transfer
+[Do sound event representations generalize to other audio tasks? A case study in audio transfer learning](https://arxiv.org/abs/2106.11335), INTERSPEECH 2021
+
 [Transfer learning of weakly labelled audio](https://ieeexplore.ieee.org/abstract/document/8169984), WASPAA 2017
 
 [Knowledge Transfer from Weakly Labeled Audio Using Convolutional Neural Network for Sound Events and Scenes](https://ieeexplore.ieee.org/abstract/document/8462200), ICASSP 2018
@@ -181,6 +196,8 @@ ICASSP 2021 papers added
 [A Light-Weight Multimodal Framework for Improved Environmental Audio Tagging](https://ieeexplore.ieee.org/abstract/document/8462479), ICASSP 2018
 
 [Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data](https://arxiv.org/abs/2006.01595), IJCAI 2020
+
+[Labelling unlabelled videos from scratch with multi-modal self-supervision](https://arxiv.org/abs/2006.13662), NeurIPS 2020
 
 [Audio-Visual Event Recognition Through the Lens of Adversary](https://ieeexplore.ieee.org/document/9415065), ICASSP 2021
 
