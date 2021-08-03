@@ -8,7 +8,7 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 Maintained by [Soham Deshmukh](https://soham97.github.io)
 
 ## Recent Content
-INTERSPEECH 2021 papers added
+INTERSPEECH 2021 papers added <br>
 ICASSP 2021 papers added
 
 ## Table of Contents
