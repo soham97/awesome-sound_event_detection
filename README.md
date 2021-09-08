@@ -241,7 +241,8 @@ ICASSP 2021 papers added
 |Action Recognition |[UCF101](https://www.crcv.ucf.edu/research/data-sets/ucf101/) | Web videos  |  13k files|
 |Unlabeled |[YFCC100M](https://pypi.org/project/yfcc100m/) | Yahoo videos  |  1M files|
 
-[Other audio-based datasets to consider](https://homepages.tuni.fi/toni.heittola/datasets)
+[Other audio-based datasets to consider](https://homepages.tuni.fi/toni.heittola/datasets) <br>
+[DCASE dataset list](https://dcase-repo.github.io/dcase_datalist/)
 
 # Workshops/Conferences/Journals
 List of old workshops (archived) and on-going workshops/conferences/journals:
