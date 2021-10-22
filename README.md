@@ -8,6 +8,7 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 Maintained by [Soham Deshmukh](https://soham97.github.io)
 
 ## Recent Content
+WASPAA 2021 papers added <br>
 INTERSPEECH 2021 papers added <br>
 ICASSP 2021 papers added
 
@@ -27,7 +28,6 @@ ICASSP 2021 papers added
   * [Few-Shot Learning](#few-shot-learning)
   * [Knowledge-transfer](#knowledge-transfer)
   * [Polyphonic SED](#polyphonic)
-  * [Joint learning](#joint-task)
   * [Loss function](#loss)
   * [Audio and Visual](#audio-visual)
   * [Audio and Text [Audio Captioning]](#audio-text)
@@ -107,6 +107,8 @@ ICASSP 2021 papers added
 
 [Event Specific Attention for Polyphonic Sound Event Detection](https://assets.amazon.science/31/fc/503f716a43fda8e0718e7ffc6e9e/event-specific-attention-for-polyphonic-sound-event-detection.pdf), INTERSPEECH 2021
 
+[Sound Event Detection with Adaptive Frequency Selection](https://arxiv.org/abs/2105.07596), WASPAA 2021
+
 ### Pooling functions
 [Adaptive Pooling Operators for Weakly Labeled Sound Event Detection](https://dl.acm.org/doi/10.1109/TASLP.2018.2858559), TASLP 2018
 
@@ -147,11 +149,19 @@ ICASSP 2021 papers added
 [FRILL: A Non-Semantic Speech Embedding for Mobile Devices](https://arxiv.org/abs/2011.04609), INTERSPEECH 2021
 
 ### Multi-Task Learning
+[A Joint Separation-Classification Model for Sound Event Detection of Weakly Labelled Data](https://ieeexplore.ieee.org/abstract/document/8462448), ICASSP 2018
+
 [Multi-Task Learning for Interpretable Weakly Labelled Sound Event Detection](https://arxiv.org/abs/2008.07085), ArXiv 2019
 
 [Multi-Task Learning and post processing optimisation for sound event detection](http://dcase.community/documents/challenge2019/technical_reports/DCASE2019_Cances_69.pdf), DCASE 2019
 
 [Label-efficient audio classification through multitask learning and self-supervision](https://arxiv.org/abs/1910.12587), ICLR 2019
+
+[Improving weakly supervised sound event detection with self-supervised auxiliary tasks](https://arxiv.org/abs/2106.06858), INTERSPEECH 2021
+
+[A Joint Framework for Audio Tagging and Weakly Supervised Acoustic Event Detection Using DenseNet with Global Average Pooling](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-8-7.pdf), INTERSPEECH 2020
+
+[Identifying Actions for Sound Event Classification](https://arxiv.org/abs/2104.12693), WASPAA 2021
 
 ### Few-Shot Learning
 [Few-Shot Audio Classification with Attentional Graph Neural Networks](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1532.pdf), INTERSPEECH 2019
@@ -163,6 +173,8 @@ ICASSP 2021 papers added
 [Few-Shot Continual Learning for Audio Classification](https://ieeexplore.ieee.org/document/9413584), ICASSP 2021
 
 [Unsupervised and Semi-Supervised Few-Shot Acoustic Event Classification](https://ieeexplore.ieee.org/document/9414546), ICASSP 2021
+
+[Who Calls the Shots? Rethinking Few-Shot Learning for Audio](https://arxiv.org/abs/2110.09600), WASPAA 2021
 
 ### Knowledge Transfer
 [Do sound event representations generalize to other audio tasks? A case study in audio transfer learning](https://arxiv.org/abs/2106.11335), INTERSPEECH 2021
@@ -183,11 +195,6 @@ ICASSP 2021 papers added
 [Evaluation of Post-Processing Algorithms for Polyphonic Sound Event Detection](https://ieeexplore.ieee.org/abstract/document/8937143), WASPAA 2019
 
 [Specialized Decision Surface and Disentangled Feature for Weakly-Supervised Polyphonic Sound Event Detection](https://ieeexplore.ieee.org/document/9076321), TASLP 2020
-
-### Joint task
-[A Joint Separation-Classification Model for Sound Event Detection of Weakly Labelled Data](https://ieeexplore.ieee.org/abstract/document/8462448), ICASSP 2018
-
-[A Joint Framework for Audio Tagging and Weakly Supervised Acoustic Event Detection Using DenseNet with Global Average Pooling](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-8-7.pdf), INTERSPEECH 2020
 
 ### Loss function
 [Impact of Sound Duration and Inactive Frames on Sound Event Detection Performance](https://arxiv.org/abs/2102.01927v1), ICASSP 2021
