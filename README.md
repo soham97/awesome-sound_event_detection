@@ -8,6 +8,7 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 Maintained by [Soham Deshmukh](https://soham97.github.io)
 
 ## Recent Content
+ICASSP 2022 papers added <br>
 WASPAA 2021 papers added <br>
 INTERSPEECH 2021 papers added <br>
 ICASSP 2021 papers added
@@ -26,6 +27,7 @@ ICASSP 2021 papers added
   * [Multi-Task Learning](#multitask-learning)
   * [Adversarial Attacks](#adversarial-attacks)
   * [Few-Shot Learning](#few-shot-learning)
+  * [Zero-Shot Learning](#zero-shot-learning)
   * [Knowledge-transfer](#knowledge-transfer)
   * [Polyphonic SED](#polyphonic)
   * [Loss function](#loss)
@@ -148,6 +150,13 @@ ICASSP 2021 papers added
 
 [FRILL: A Non-Semantic Speech Embedding for Mobile Devices](https://arxiv.org/abs/2011.04609), INTERSPEECH 2021
 
+[Conformer-Based Self-Supervised Learning for Non-Speech Audio Tasks](https://arxiv.org/abs/2110.07313), ICASSP 2022
+
+[HEAR 2021: Holistic Evaluation of Audio Representations](https://arxiv.org/abs/2203.03022), PMLR: NeurIPS 2021 Competition Track
+
+[Towards Learning Universal Audio Representations](https://arxiv.org/pdf/2110.06501.pdf), ICASSP 2022
+
+
 ### Multi-Task Learning
 [A Joint Separation-Classification Model for Sound Event Detection of Weakly Labelled Data](https://ieeexplore.ieee.org/abstract/document/8462448), ICASSP 2018
 
@@ -176,6 +185,13 @@ ICASSP 2021 papers added
 
 [Who Calls the Shots? Rethinking Few-Shot Learning for Audio](https://arxiv.org/abs/2110.09600), WASPAA 2021
 
+[A Mutual Learning Framework For Few-Shot Sound Event Detection](https://arxiv.org/abs/2110.04474), ICASSP 2022
+
+### Zero-Shot Learning
+[AudioCLIP: Extending CLIP to Image, Text and Audio](https://arxiv.org/abs/2106.13043), ICASSP 2022
+
+[Wav2CLIP: Learning Robust Audio Representations From CLIP](https://arxiv.org/abs/2111.12124), ICASSP 2022
+
 ### Knowledge Transfer
 [Do sound event representations generalize to other audio tasks? A case study in audio transfer learning](https://arxiv.org/abs/2106.11335), INTERSPEECH 2021
 
@@ -195,6 +211,8 @@ ICASSP 2021 papers added
 [Evaluation of Post-Processing Algorithms for Polyphonic Sound Event Detection](https://ieeexplore.ieee.org/abstract/document/8937143), WASPAA 2019
 
 [Specialized Decision Surface and Disentangled Feature for Weakly-Supervised Polyphonic Sound Event Detection](https://ieeexplore.ieee.org/document/9076321), TASLP 2020
+
+[Spatial Data Augmentation with Simulated Room Impulse Responses for Sound Event Localization and Detection](https://arxiv.org/abs/2111.12124), ICASSP 2022
 
 ### Loss function
 [Impact of Sound Duration and Inactive Frames on Sound Event Detection Performance](https://arxiv.org/abs/2102.01927v1), ICASSP 2021
@@ -225,11 +243,17 @@ ICASSP 2021 papers added
 
 [Learning Contextual Tag Embeddings for Cross-Modal Alignment of Audio and Tags](https://ieeexplore.ieee.org/document/9414638), ICASSP 2021
 
+[Automated Audio Captioning using Transfer Learning and Reconstruction Latent Space Similarity Regularization](https://arxiv.org/abs/2108.04692), ICASSP 2022
+
+[Sound Event Detection Guided by Semantic Contexts of Scenes](https://arxiv.org/abs/2110.03243), ICASSP 2022
+
 ### Strongly and Weakly labelled data
 [Audio event and scene recognition: A unified approach using strongly and weakly labeled data](https://ieeexplore.ieee.org/abstract/document/7966293), IJCNN 2017
 
 ### Others
 [Sound Event Detection Using Point-Labeled Data](https://interactiveaudiolab.github.io/assets/papers/waspaa_2019_kim.pdf), WASPAA 2019
+
+[An Investigation of the Effectiveness of Phase for Audio Classification](https://arxiv.org/abs/2110.02878), ICASSP 2022
 
 # Dataset
 |Task |Dataset |Source |Num. Files |
