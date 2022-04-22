@@ -156,7 +156,7 @@ ICASSP 2021 papers added
 
 [Conformer-Based Self-Supervised Learning for Non-Speech Audio Tasks](https://arxiv.org/abs/2110.07313), ICASSP 2022
 
-[Towards Learning Universal Audio Representations](https://arxiv.org/pdf/2110.06501.pdf), ICASSP 2022
+[Towards Learning Universal Audio Representations](https://arxiv.org/pdf/2111.12124.pdf), ICASSP 2022
 
 ### Multi-Task Learning
 [A Joint Separation-Classification Model for Sound Event Detection of Weakly Labelled Data](https://ieeexplore.ieee.org/abstract/document/8462448), ICASSP 2018
