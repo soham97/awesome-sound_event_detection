@@ -158,6 +158,8 @@ ICASSP 2021 papers added
 
 [Towards Learning Universal Audio Representations](https://arxiv.org/pdf/2111.12124.pdf), ICASSP 2022
 
+[CLAP: Learning Audio Concepts From Natural Language Supervision](https://arxiv.org/abs/2206.04769), ArXiv 2022
+
 ### Multi-Task Learning
 [A Joint Separation-Classification Model for Sound Event Detection of Weakly Labelled Data](https://ieeexplore.ieee.org/abstract/document/8462448), ICASSP 2018
 
@@ -192,6 +194,8 @@ ICASSP 2021 papers added
 [AudioCLIP: Extending CLIP to Image, Text and Audio](https://arxiv.org/abs/2106.13043), ICASSP 2022
 
 [Wav2CLIP: Learning Robust Audio Representations From CLIP](https://arxiv.org/abs/2111.12124), ICASSP 2022
+
+[CLAP: Learning Audio Concepts From Natural Language Supervision](https://arxiv.org/abs/2206.04769), ArXiv 2022
 
 ### Knowledge Transfer
 [Transfer learning of weakly labelled audio](https://ieeexplore.ieee.org/abstract/document/8169984), WASPAA 2017
