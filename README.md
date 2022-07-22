@@ -22,7 +22,7 @@ ICASSP 2021 papers added
   * [Pooling fuctions](#pooling-functions)
   * [Missing or noisy audio](#missing-or-noisy-audio)
   * [Data Augmentation](#data-augmentation)
-  * [Generative Learning](#generative-learning)
+  * [Audio Generation](#audio-generation)
   * [Representation Learning](#representation-learning)
   * [Multi-Task Learning](#multi-task-learning)
   * [Adversarial Attacks](#adversarial-attacks)
@@ -30,22 +30,24 @@ ICASSP 2021 papers added
   * [Zero-Shot Learning](#zero-shot-learning)
   * [Knowledge-transfer](#knowledge-transfer)
   * [Polyphonic SED](#polyphonic)
-  * [Loss function](#loss)
+  * [Loss function](#loss-function)
   * [Audio and Visual](#audio-and-visual)
-  * [Audio and Text](#audio-and-text)
-  * [Strongly and Weakly labelled data](#strongly-and-weakly-labelled-data)
+  * [Audio Captioning](#audio-captioning)
+  * [Audio Retrieval](#audio-retrieval)
   * [Healthcare](#healthcare)
   * [Robotics](#robotics)
 * [Dataset](#dataset)
 * [Workshops/Conferences/Journals](#workshops-conferences-journals)
-* [Tutorials](#tutorials)
-* [Courses](#courses)
 * [More](#more)
 
 # Research papers
 
 ## Survey papers
 [Sound event detection and time–frequency segmentation from weakly labelled data](https://ieeexplore.ieee.org/abstract/document/8632940), TASLP 2019
+
+[Sound Event Detection: A Tutorial](https://arxiv.org/abs/2107.05463), ArXiv 2021
+
+[Automated Audio Captioning: an Overview of Recent Progress and New Challenges](), ArXiv 2022
 
 ## Areas
 
@@ -111,6 +113,8 @@ ICASSP 2021 papers added
 
 [Sound Event Detection with Adaptive Frequency Selection](https://arxiv.org/abs/2105.07596), WASPAA 2021
 
+[SSAST: Self-Supervised Audio Spectrogram Transformer](https://ojs.aaai.org/index.php/AAAI/article/view/21315), AAAI 2022
+
 ### Pooling functions
 [Adaptive Pooling Operators for Weakly Labeled Sound Event Detection](https://dl.acm.org/doi/10.1109/TASLP.2018.2858559), TASLP 2018
 
@@ -138,10 +142,14 @@ ICASSP 2021 papers added
 ### Data Augmentation:
 [SpecAugment++: A Hidden Space Data Augmentation Method for Acoustic Scene Classification](https://arxiv.org/abs/2103.16858), INTERSPEECH 2021
 
-### Generative Learning
+### Audio Generation
 [Acoustic Scene Generation with Conditional Samplernn](https://ieeexplore.ieee.org/abstract/document/8683727), ICASSP 2019
 
 [Conditional Sound Generation Using Neural Discrete Time-Frequency Representation Learning](https://ieeexplore.ieee.org/abstract/document/9596430), MLSP 2021
+
+[Taming Visually Guided Sound Generation](https://arxiv.org/abs/2110.08791), BMVC 2021
+
+[Diffsound: Discrete Diffusion Model for Text-to-sound Generation](https://arxiv.org/abs/2207.09983), ArXiv 2022
 
 ### Representation Learning
 [Contrastive Predictive Coding of Audio with an Adversary](http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=270&id=478), INTERSPEECH 2020
@@ -157,6 +165,8 @@ ICASSP 2021 papers added
 [Conformer-Based Self-Supervised Learning for Non-Speech Audio Tasks](https://arxiv.org/abs/2110.07313), ICASSP 2022
 
 [Towards Learning Universal Audio Representations](https://arxiv.org/pdf/2111.12124.pdf), ICASSP 2022
+
+[SSAST: Self-Supervised Audio Spectrogram Transformer](https://ojs.aaai.org/index.php/AAAI/article/view/21315), AAAI 2022
 
 [CLAP 👏: Learning Audio Concepts From Natural Language Supervision](https://arxiv.org/abs/2206.04769), ArXiv 2022
 
@@ -231,7 +241,9 @@ ICASSP 2021 papers added
 
 [Audio-Visual Event Recognition Through the Lens of Adversary](https://ieeexplore.ieee.org/document/9415065), ICASSP 2021
 
-### Audio and Text
+[Taming Visually Guided Sound Generation](https://arxiv.org/abs/2110.08791), BMVC 2021
+
+### Audio Captioning
 [Automated audio captioning with recurrent neural networks](https://ieeexplore.ieee.org/document/8170058), WASPAA 2017
 
 [Audio caption: Listen and tell](https://arxiv.org/abs/1706.10006), ICASSP 2018
@@ -252,10 +264,14 @@ ICASSP 2021 papers added
 
 [Sound Event Detection Guided by Semantic Contexts of Scenes](https://arxiv.org/abs/2110.03243), ICASSP 2022
 
-### Strongly and Weakly labelled data
-[Audio event and scene recognition: A unified approach using strongly and weakly labeled data](https://ieeexplore.ieee.org/abstract/document/7966293), IJCNN 2017
+### Audio Retrieval
+[Audio Retrieval with Natural Language Queries: A Benchmark Study](https://ieeexplore.ieee.org/abstract/document/9707629), IEEE Transactions on Multimedia 2022
+
+[On Metric Learning for Audio-Text Cross-Modal Retrieval](https://arxiv.org/abs/2203.15537), ArXiv 2022
 
 ### Others
+[Audio event and scene recognition: A unified approach using strongly and weakly labeled data](https://ieeexplore.ieee.org/abstract/document/7966293), IJCNN 2017
+
 [Sound Event Detection Using Point-Labeled Data](https://interactiveaudiolab.github.io/assets/papers/waspaa_2019_kim.pdf), WASPAA 2019
 
 [An Investigation of the Effectiveness of Phase for Audio Classification](https://arxiv.org/abs/2110.02878), ICASSP 2022
@@ -291,9 +307,6 @@ List of old workshops (archived) and on-going workshops/conferences/journals:
 |INTERSPEECH| https://www.interspeech2021.org/ |
 |IEEE/ACM Transactions on Audio, Speech and Language Processing| https://dl.acm.org/journal/taslp |
 |DCASE| http://dcase.community/ |
-
-# Tutorials
-[Sound Event Detection: A Tutorial](https://arxiv.org/abs/2107.05463)
 
 # Resources
 [Computational Analysis of Sound Scenes and Events](https://www.springer.com/us/book/9783319634494)
