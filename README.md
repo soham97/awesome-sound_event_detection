@@ -4,7 +4,7 @@ Sound event detection aims at processing the continuous acoustic signal and conv
 
 Papers covering multiple sub-areas are listed in both the sections. If there are any areas, papers, and datasets I missed, please let me know or feel free to make a pull request.
 
-### The reading list is expanded to including topics in Sound AI
+### The reading list is expanded to include topics in Sound AI
 
 Maintained by [Soham Deshmukh](https://soham97.github.io)
 
