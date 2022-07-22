@@ -1,9 +1,10 @@
 # Reading List for topics in Sound Event Detection
-
 ## Introduction
-Sound event detection aims at processing the continuous acoustic signal and converting it into symbolic descriptions of the corresponding sound events present at the auditory scene. Sound event detection can be utilized in a variety of applications, including context-based indexing and retrieval in multimedia databases, unobtrusive monitoring in health care, and surveillance. Recently (since 2017), to utilise large multimedia data available, learning acoustic information from weak annotations was formulated. This reading list consists of papers which use weak annotation for learning symbolic descriptions of the corresponding sound events in the audio.
+Sound event detection aims at processing the continuous acoustic signal and converting it into symbolic descriptions of the corresponding sound events present at the auditory scene. Sound event detection can be utilized in a variety of applications, including context-based indexing and retrieval in multimedia databases, unobtrusive monitoring in health care, and surveillance. Since 2017, to utilise large multimedia data available, learning acoustic information from weak annotations was formulated. This reading list consists of papers for sound event detection and Sound AI.
 
 Papers covering multiple sub-areas are listed in both the sections. If there are any areas, papers, and datasets I missed, please let me know or feel free to make a pull request.
+
+### The reading list is expanded to including topics in Sound AI
 
 Maintained by [Soham Deshmukh](https://soham97.github.io)
 
