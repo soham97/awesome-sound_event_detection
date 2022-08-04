@@ -116,6 +116,8 @@ ICASSP 2021 papers added
 
 [SSAST: Self-Supervised Audio Spectrogram Transformer](https://ojs.aaai.org/index.php/AAAI/article/view/21315), AAAI 2022
 
+[HTS-AT: A Hierarchical Token-Semantic Audio Transformer for Sound Classification and Detection](https://arxiv.org/abs/2202.00874), ICASSP 2022
+
 ### Pooling functions
 [Adaptive Pooling Operators for Weakly Labeled Sound Event Detection](https://dl.acm.org/doi/10.1109/TASLP.2018.2858559), TASLP 2018
 
