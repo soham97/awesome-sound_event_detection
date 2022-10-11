@@ -9,6 +9,7 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 Maintained by [Soham Deshmukh](https://soham97.github.io)
 
 ## Recent Content
+INTERSPEECH 2022 papers added <br>
 ICASSP 2022 papers added <br>
 WASPAA 2021 papers added <br>
 INTERSPEECH 2021 papers added <br>
@@ -30,7 +31,7 @@ ICASSP 2021 papers added
   * [Few-Shot Learning](#few-shot-learning)
   * [Zero-Shot Learning](#zero-shot-learning)
   * [Knowledge-transfer](#knowledge-transfer)
-  * [Polyphonic SED](#polyphonic)
+  * [Polyphonic SED](#polyphonic-sed)
   * [Loss function](#loss-function)
   * [Audio and Visual](#audio-and-visual)
   * [Audio Captioning](#audio-captioning)
@@ -118,6 +119,10 @@ ICASSP 2021 papers added
 
 [HTS-AT: A Hierarchical Token-Semantic Audio Transformer for Sound Classification and Detection](https://arxiv.org/abs/2202.00874), ICASSP 2022
 
+[MAE-AST: Masked Autoencoding Audio Spectrogram Transformer](https://arxiv.org/abs/2203.16691), INTERSPEECH 2022
+
+[Efficient Training of Audio Transformers with Patchout](https://arxiv.org/abs/2110.05069), INTERSPEECH 2022
+
 ### Pooling functions
 [Adaptive Pooling Operators for Weakly Labeled Sound Event Detection](https://dl.acm.org/doi/10.1109/TASLP.2018.2858559), TASLP 2018
 
@@ -144,15 +149,6 @@ ICASSP 2021 papers added
 
 ### Data Augmentation:
 [SpecAugment++: A Hidden Space Data Augmentation Method for Acoustic Scene Classification](https://arxiv.org/abs/2103.16858), INTERSPEECH 2021
-
-### Audio Generation
-[Acoustic Scene Generation with Conditional Samplernn](https://ieeexplore.ieee.org/abstract/document/8683727), ICASSP 2019
-
-[Conditional Sound Generation Using Neural Discrete Time-Frequency Representation Learning](https://ieeexplore.ieee.org/abstract/document/9596430), MLSP 2021
-
-[Taming Visually Guided Sound Generation](https://arxiv.org/abs/2110.08791), BMVC 2021
-
-[Diffsound: Discrete Diffusion Model for Text-to-sound Generation](https://arxiv.org/abs/2207.09983), ArXiv 2022
 
 ### Representation Learning
 [Contrastive Predictive Coding of Audio with an Adversary](http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=270&id=478), INTERSPEECH 2020
@@ -188,6 +184,8 @@ ICASSP 2021 papers added
 
 [Identifying Actions for Sound Event Classification](https://arxiv.org/abs/2104.12693), WASPAA 2021
 
+[Impact of Acoustic Event Tagging on Scene Classification in a Multi-Task Learning Framework](https://arxiv.org/abs/2206.13476), INTERSPEECH 2022
+
 ### Few-Shot Learning
 [Few-Shot Audio Classification with Attentional Graph Neural Networks](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1532.pdf), INTERSPEECH 2019
 
@@ -202,6 +200,8 @@ ICASSP 2021 papers added
 [Who Calls the Shots? Rethinking Few-Shot Learning for Audio](https://arxiv.org/abs/2110.09600), WASPAA 2021
 
 [A Mutual Learning Framework For Few-Shot Sound Event Detection](https://arxiv.org/abs/2110.04474), ICASSP 2022
+
+[Active Few-Shot Learning for Sound Event Detection](https://www.isca-speech.org/archive/pdfs/interspeech_2022/wang22aa_interspeech.pdf), INTERSPEECH 2022
 
 ### Zero-Shot Learning
 [AudioCLIP: Extending CLIP to Image, Text and Audio](https://arxiv.org/abs/2106.13043), ICASSP 2022
@@ -267,10 +267,27 @@ ICASSP 2021 papers added
 
 [Sound Event Detection Guided by Semantic Contexts of Scenes](https://arxiv.org/abs/2110.03243), ICASSP 2022
 
+[Interactive Audio-text Representation for Automated Audio Captioning with Contrastive Learning](https://arxiv.org/abs/2203.15526), INTERSPEECH 2022
+
 ### Audio Retrieval
 [Audio Retrieval with Natural Language Queries: A Benchmark Study](https://ieeexplore.ieee.org/abstract/document/9707629), IEEE Transactions on Multimedia 2022
 
-[On Metric Learning for Audio-Text Cross-Modal Retrieval](https://arxiv.org/abs/2203.15537), ArXiv 2022
+[On Metric Learning for Audio-Text Cross-Modal Retrieval](https://arxiv.org/abs/2203.15537), INTERSPEECH 2022
+
+[Introducing Auxiliary Text Query-modifier to Content-based Audio Retrieval](https://arxiv.org/abs/2207.09732), INTERSPEECH 2022
+
+[Audio Retrieval with WavText5K and CLAP Training](http://arxiv.org/abs/2208.09439), ArXiv 2022
+
+### Audio Generation
+[Acoustic Scene Generation with Conditional Samplernn](https://ieeexplore.ieee.org/abstract/document/8683727), ICASSP 2019
+
+[Conditional Sound Generation Using Neural Discrete Time-Frequency Representation Learning](https://ieeexplore.ieee.org/abstract/document/9596430), MLSP 2021
+
+[Taming Visually Guided Sound Generation](https://arxiv.org/abs/2110.08791), BMVC 2021
+
+[Diffsound: Discrete Diffusion Model for Text-to-sound Generation](https://arxiv.org/abs/2207.09983), ArXiv 2022
+
+[AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/paper.pdf), ICML 2023
 
 ### Others
 [Audio event and scene recognition: A unified approach using strongly and weakly labeled data](https://ieeexplore.ieee.org/abstract/document/7966293), IJCNN 2017
@@ -293,6 +310,7 @@ ICASSP 2021 papers added
 |Various |[VGG-Sound](https://www.robots.ox.ac.uk/~vgg/data/vggsound/)|Web videos |200k files|
 |Audio Captioning   |[Clotho](https://github.com/audio-captioning/clotho-dataset) |freesound.org |5k files |
 |Audio Captioning   |[AudioCaps](https://github.com/cdjkim/audiocaps/tree/master/dataset) |YT videos |51k files |
+|Audio Retrieval    |[WavText5K](https://github.com/microsoft/WavText5K) | Varied | ~5k files |
 |Action Recognition |[UCF101](https://www.crcv.ucf.edu/research/data-sets/ucf101/) | Web videos  |  13k files|
 |Unlabeled |[YFCC100M](https://pypi.org/project/yfcc100m/) | Yahoo videos  |  1M files|
 
