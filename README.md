@@ -310,6 +310,7 @@ ICASSP 2021 papers added
 |Various |[VGG-Sound](https://www.robots.ox.ac.uk/~vgg/data/vggsound/)|Web videos |200k files|
 |Audio Captioning   |[Clotho](https://github.com/audio-captioning/clotho-dataset) |freesound.org |5k files |
 |Audio Captioning   |[AudioCaps](https://github.com/cdjkim/audiocaps/tree/master/dataset) |YT videos |51k files |
+|Audio Retrieval    |[SoundDescs](https://github.com/akoepke/audio-retrieval-benchmark) | BBC Sound Effects | ~30k files |
 |Audio Retrieval    |[WavText5K](https://github.com/microsoft/WavText5K) | Varied | ~5k files |
 |Action Recognition |[UCF101](https://www.crcv.ucf.edu/research/data-sets/ucf101/) | Web videos  |  13k files|
 |Unlabeled |[YFCC100M](https://pypi.org/project/yfcc100m/) | Yahoo videos  |  1M files|
