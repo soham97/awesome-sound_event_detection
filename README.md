@@ -276,7 +276,7 @@ ICASSP 2021 papers added
 
 [Introducing Auxiliary Text Query-modifier to Content-based Audio Retrieval](https://arxiv.org/abs/2207.09732), INTERSPEECH 2022
 
-[Audio Retrieval with WavText5K and CLAP Training](http://arxiv.org/abs/2208.09439), ArXiv 2022
+[Audio Retrieval with WavText5K and CLAP Training](https://arxiv.org/abs/2209.14275), ArXiv 2022
 
 ### Audio Generation
 [Acoustic Scene Generation with Conditional Samplernn](https://ieeexplore.ieee.org/abstract/document/8683727), ICASSP 2019
