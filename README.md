@@ -28,8 +28,8 @@ ICASSP 2021 papers added
   * [Representation Learning](#representation-learning)
   * [Multi-Task Learning](#multi-task-learning)
   * [Adversarial Attacks](#adversarial-attacks)
-  * [Few-Shot Learning](#few-shot-learning)
-  * [Zero-Shot Learning](#zero-shot-learning)
+  * [Few-Shot](#few-shot)
+  * [Zero-Shot](#zero-shot)
   * [Knowledge-transfer](#knowledge-transfer)
   * [Polyphonic SED](#polyphonic-sed)
   * [Loss function](#loss-function)
@@ -184,7 +184,7 @@ ICASSP 2021 papers added
 
 [Impact of Acoustic Event Tagging on Scene Classification in a Multi-Task Learning Framework](https://arxiv.org/abs/2206.13476), INTERSPEECH 2022
 
-### Few-Shot Learning
+### Few-Shot
 [Few-Shot Audio Classification with Attentional Graph Neural Networks](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1532.pdf), INTERSPEECH 2019
 
 [Continual Learning of New Sound Classes Using Generative Replay](https://ieeexplore.ieee.org/document/8937236), WASSPA 2019
