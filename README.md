@@ -289,6 +289,10 @@ ICASSP 2021 papers added
 
 [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/paper.pdf), ICML 2023
 
+[Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), 2023
+
+[AudioLDM: Text-to-Audio Generation with Latent Diffusion Models](https://arxiv.org/abs/2301.12503), ArXiv 2023
+
 ### Others
 [Audio event and scene recognition: A unified approach using strongly and weakly labeled data](https://ieeexplore.ieee.org/abstract/document/7966293), IJCNN 2017
 
