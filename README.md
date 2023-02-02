@@ -123,6 +123,8 @@ ICASSP 2021 papers added
 
 [Efficient Training of Audio Transformers with Patchout](https://arxiv.org/abs/2110.05069), INTERSPEECH 2022
 
+[BEATs: Audio Pre-Training with Acoustic Tokenizers](https://arxiv.org/pdf/2212.09058.pdf), ArXiv 2022
+
 ### Pooling functions
 [Adaptive Pooling Operators for Weakly Labeled Sound Event Detection](https://dl.acm.org/doi/10.1109/TASLP.2018.2858559), TASLP 2018
 
