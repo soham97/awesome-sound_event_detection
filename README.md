@@ -208,9 +208,9 @@ ICASSP 2021 papers added
 
 [Wav2CLIP: Learning Robust Audio Representations From CLIP](https://arxiv.org/abs/2111.12124), ICASSP 2022
 
-[CLAP 👏: Learning Audio Concepts From Natural Language Supervision](https://arxiv.org/abs/2206.04769), ArXiv 2022
+[CLAP 👏: Learning Audio Concepts From Natural Language Supervision](https://arxiv.org/abs/2206.04769), ICASSP 2023
 
-[Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation](https://arxiv.org/abs/2211.06687), ArXiv 2022
+[Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation](https://arxiv.org/abs/2211.06687), ICASSP 2023
 
 ### Knowledge Transfer
 [Transfer learning of weakly labelled audio](https://ieeexplore.ieee.org/abstract/document/8169984), WASPAA 2017
