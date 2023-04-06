@@ -47,9 +47,9 @@ ICASSP 2021 papers added
 ## Survey papers
 [Sound event detection and time–frequency segmentation from weakly labelled data](https://ieeexplore.ieee.org/abstract/document/8632940), TASLP 2019
 
-[Sound Event Detection: A Tutorial](https://arxiv.org/abs/2107.05463), ArXiv 2021
+[Sound Event Detection: A Tutorial](https://arxiv.org/abs/2107.05463), IEEE Signal Processing Magazine, Volume 38, Issue 5
 
-[Automated Audio Captioning: an Overview of Recent Progress and New Challenges](), ArXiv 2022
+[Automated Audio Captioning: an Overview of Recent Progress and New Challenges](https://arxiv.org/abs/2205.05949), EURASIP Journal on Audio Speech and Music Processing 2022
 
 ## Areas
 
