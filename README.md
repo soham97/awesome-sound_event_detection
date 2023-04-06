@@ -291,9 +291,11 @@ ICASSP 2021 papers added
 
 [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/paper.pdf), ICML 2023
 
-[Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), 2023
+[Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), ArXiv 2023
 
 [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models](https://arxiv.org/abs/2301.12503), ArXiv 2023
+
+[AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models](https://arxiv.org/abs/2304.00830), ArXiv 2023
 
 ### Others
 [Audio event and scene recognition: A unified approach using strongly and weakly labeled data](https://ieeexplore.ieee.org/abstract/document/7966293), IJCNN 2017
@@ -316,8 +318,10 @@ ICASSP 2021 papers added
 |Various |[VGG-Sound](https://www.robots.ox.ac.uk/~vgg/data/vggsound/)|Web videos |200k files|
 |Audio Captioning   |[Clotho](https://github.com/audio-captioning/clotho-dataset) |freesound.org |5k files |
 |Audio Captioning   |[AudioCaps](https://github.com/cdjkim/audiocaps/tree/master/dataset) |YT videos |51k files |
-|Audio Retrieval    |[SoundDescs](https://github.com/akoepke/audio-retrieval-benchmark) | BBC Sound Effects | 32k files |
-|Audio Retrieval    |[WavText5K](https://github.com/microsoft/WavText5K) | Varied | 5k files |
+|Audio-text    |[SoundDescs](https://github.com/akoepke/audio-retrieval-benchmark) | BBC Sound Effects | 32k files |
+|Audio-text     |[WavText5K](https://github.com/microsoft/WavText5K) | Varied | 5k files |
+|Audio-text     |[LAION 630k](https://github.com/LAION-AI/audio-dataset/blob/main/laion-audio-630k/README.md) | Varied | 630k files |
+|Audio-text     |[WavCaps](https://github.com/XinhaoMei/WavCaps) | Varied | 400k files |
 |Action Recognition |[UCF101](https://www.crcv.ucf.edu/research/data-sets/ucf101/) | Web videos  |  13k files|
 |Unlabeled |[YFCC100M](https://pypi.org/project/yfcc100m/) | Yahoo videos  |  1M files|
 
