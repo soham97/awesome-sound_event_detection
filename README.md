@@ -203,6 +203,8 @@ ICASSP 2021 papers added
 
 [Active Few-Shot Learning for Sound Event Detection](https://www.isca-speech.org/archive/pdfs/interspeech_2022/wang22aa_interspeech.pdf), INTERSPEECH 2022
 
+[Adapting Language-Audio Models as Few-Shot Audio Learners](https://arxiv.org/pdf/2305.17719.pdf), INTERSPEECH 2023
+
 ### Zero-Shot
 [AudioCLIP: Extending CLIP to Image, Text and Audio](https://arxiv.org/abs/2106.13043), ICASSP 2022
 
