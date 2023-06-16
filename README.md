@@ -212,6 +212,10 @@ ICASSP 2021 papers added
 
 [Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation](https://arxiv.org/abs/2211.06687), ICASSP 2023
 
+[Listen, Think, and Understand](https://arxiv.org/abs/2305.10790), ArXiv 2023
+
+[Pengi 🐧: An Audio Language Model for Audio Tasks](https://arxiv.org/pdf/2305.11834.pdf), ArXiv 2023
+
 ### Knowledge Transfer
 [Transfer learning of weakly labelled audio](https://ieeexplore.ieee.org/abstract/document/8169984), WASPAA 2017
 
@@ -247,6 +251,12 @@ ICASSP 2021 papers added
 [Audio-Visual Event Recognition Through the Lens of Adversary](https://ieeexplore.ieee.org/document/9415065), ICASSP 2021
 
 [Taming Visually Guided Sound Generation](https://arxiv.org/abs/2110.08791), BMVC 2021
+
+[Learning Audio-Video Modalities from Image Captions](https://arxiv.org/abs/2204.00679), ECCV 2022
+
+[UAVM: Towards Unifying Audio and Visual Models](https://ieeexplore.ieee.org/document/9964072), IEEE Signal Processing letters
+
+[Contrastive Audio-Visual Masked Autoencoder](https://openreview.net/forum?id=QPtMRyk5rb), ICLR 2023
 
 ### Audio Captioning
 [Automated audio captioning with recurrent neural networks](https://ieeexplore.ieee.org/document/8170058), WASPAA 2017
@@ -293,9 +303,15 @@ ICASSP 2021 papers added
 
 [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), ArXiv 2023
 
-[AudioLDM: Text-to-Audio Generation with Latent Diffusion Models](https://arxiv.org/abs/2301.12503), ArXiv 2023
+[AudioLDM: Text-to-Audio Generation with Latent Diffusion Models](https://arxiv.org/abs/2301.12503), ICML 2023
 
 [AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models](https://arxiv.org/abs/2304.00830), ArXiv 2023
+
+[Diverse and Vivid Sound Generation from Text Descriptions](https://ieeexplore.ieee.org/document/10096643), ICASSP 2023
+
+[Make-An-Audio 2: Temporal-Enhanced Text-to-Audio Generation](https://arxiv.org/abs/2305.18474), ArXiv 2023
+
+[Simple and Controllable Music Generation](https://arxiv.org/abs/2306.05284), ArXiv 2023
 
 ### Others
 [Audio event and scene recognition: A unified approach using strongly and weakly labeled data](https://ieeexplore.ieee.org/abstract/document/7966293), IJCNN 2017
