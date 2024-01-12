@@ -218,6 +218,10 @@ ICASSP 2021 papers added
 
 [Pengi 🐧: An Audio Language Model for Audio Tasks](https://arxiv.org/pdf/2305.11834.pdf), ArXiv 2023
 
+[Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action](https://arxiv.org/abs/2312.17172), ArXiv 2023
+
+[Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models](https://arxiv.org/abs/2311.07919), ArXiv 2023
+
 ### Knowledge Transfer
 [Transfer learning of weakly labelled audio](https://ieeexplore.ieee.org/abstract/document/8169984), WASPAA 2017
 
@@ -314,6 +318,10 @@ ICASSP 2021 papers added
 [Make-An-Audio 2: Temporal-Enhanced Text-to-Audio Generation](https://arxiv.org/abs/2305.18474), ArXiv 2023
 
 [Simple and Controllable Music Generation](https://arxiv.org/abs/2306.05284), ArXiv 2023
+
+[Audiobox: Unified Audio Generation with Natural Language Prompts](https://arxiv.org/abs/2312.15821), ArXiv 2023
+
+[Masked Audio Generation using a Single Non-Autoregressive Transformer](https://arxiv.org/abs/2401.04577), ArXiv 2024
 
 ### Others
 [Audio event and scene recognition: A unified approach using strongly and weakly labeled data](https://ieeexplore.ieee.org/abstract/document/7966293), IJCNN 2017
