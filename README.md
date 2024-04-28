@@ -220,7 +220,11 @@ ICASSP 2021 papers added
 
 [Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action](https://arxiv.org/abs/2312.17172), ArXiv 2023
 
+[ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities](https://arxiv.org/abs/2305.11172), ArXiv 2023
+
 [Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models](https://arxiv.org/abs/2311.07919), ArXiv 2023
+
+[Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities](https://arxiv.org/abs/2402.01831), ArXiv 2024
 
 ### Knowledge Transfer
 [Transfer learning of weakly labelled audio](https://ieeexplore.ieee.org/abstract/document/8169984), WASPAA 2017
@@ -295,6 +299,8 @@ ICASSP 2021 papers added
 [Introducing Auxiliary Text Query-modifier to Content-based Audio Retrieval](https://arxiv.org/abs/2207.09732), INTERSPEECH 2022
 
 [Audio Retrieval with WavText5K and CLAP Training](https://arxiv.org/abs/2209.14275), ArXiv 2022
+
+
 
 ### Audio Generation
 [Acoustic Scene Generation with Conditional Samplernn](https://ieeexplore.ieee.org/abstract/document/8683727), ICASSP 2019
