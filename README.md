@@ -4,13 +4,12 @@ Sound event detection aims at processing the continuous acoustic signal and conv
 
 Papers covering multiple sub-areas are listed in both the sections. If there are any areas, papers, and datasets I missed, please let me know or feel free to make a pull request.
 
-### The reading list is expanded to include topics in Sound AI
-
-Maintained by [Soham Deshmukh](https://soham97.github.io)
+**The reading list is no longer being actively maintained. However, PRs for relevant papers are welcomed.**
 
 ## Recent Content
 INTERSPEECH 2022 papers added <br>
 ICASSP 2022 papers added <br>
+The reading list is expanded to include topics in Sound AI
 WASPAA 2021 papers added <br>
 INTERSPEECH 2021 papers added <br>
 ICASSP 2021 papers added
